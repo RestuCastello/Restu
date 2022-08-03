@@ -1,3 +1,2 @@
-# Restu
-
-[Restu](https://wa.me/+6283817757282?text=mmk)
+# Github stats
+![Profile views](https://gpvc.arturio.dev/RestuCastello)
